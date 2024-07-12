@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uvthegreat.uvthegreat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Khand&weight=700&size=42&duration=500&pause=1000&color=883EDC&center=true&vCenter=true&repeat=false&random=true&width=450&lines=I'm+Utkarsh+Vishwakarma%F0%9F%91%8B;WUBBA+LUBBA+DUB-DUB!👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Khand&weight=700&size=42&duration=500&pause=1000&color=883EDC&center=true&vCenter=true&repeat=true&random=true&width=450&lines=I'm+Utkarsh+Vishwakarma%F0%9F%91%8B;WUBBA+LUBBA+DUB-DUB!👋" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">An Aspiring Software Developer from India</h3>
