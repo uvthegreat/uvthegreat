@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Deep Learning, Machine Learning, RESTful APIs**
 
-💬 Ask me about anything **[here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about anything **[here](https://github.com/uvthegreat/uvthegreat/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
