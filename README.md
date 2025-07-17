@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a Student at Chandigarh University
+ 🔭 I’m currently working at BlueYonder as associate technical consultant
  
  🌱 I’m currently learning **Deep Learning, Machine Learning, RESTful APIs**
 
@@ -40,10 +40,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,postgres,mysql,sklearn,tensorflow,r,js" />
-    <img src="https://skillicons.dev/icons?i=html,css,ts,sass,react,vite,redux,npm,nodejs,express,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,anaconda,replit,linux,powershell,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=codepen,androidstudio,figma,vercel,autocad,blender,discord,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,mysql,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=autocad,blender,ps" />
      <br>
 </div
 
